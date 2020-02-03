@@ -6,7 +6,7 @@ const JIRA_PROJECT_KEY = '';
 
 const ACCOUNT = {
     jira_username : '',
-    jira_password: '',
+    jira_password: '', //account token
     gitlab_username: '',
     gitlab_password: ''
 };
