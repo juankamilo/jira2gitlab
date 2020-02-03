@@ -1,7 +1,7 @@
 Jira2Gitlab Simple Migration Tool
 ------------
 ### Info ###
-This is a very siemple tool to migrate the issues in jira to gitlab.
+This is a very siemple tool to migrate issues in jira to gitlab.
 
 ### Define Variables ###
 
