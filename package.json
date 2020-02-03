@@ -1,0 +1,28 @@
+{
+  "name": "jira2gitlab",
+  "version": "0.0.1",
+  "description": "migracion",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Camilo Restrepo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/juankamilo/jira2gitlab.git"
+  },
+  "keywords": [
+    "jira",
+    "to",
+    "gitlab"
+  ],
+  "bugs": {
+    "url": "https://gitlab.com/juankamilo/jira2gitlab/issues"
+  },
+  "homepage": "https://gitlab.com/juankamilo/jira2gitlab#README"
+}
